@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               ArcheryTrack
-tagline:             'App to track you shooting.'
+tagline:             'App to track your shooting history.'
 description:         'Track tournaments, practice, sight setup.'
 url:                 'https://archerytrack.github.io/'
 repo:				 'http://github.com/ArcheryTrack/'
