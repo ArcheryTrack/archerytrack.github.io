@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               ArcheryTrack
+tagline:             'App to track you shooting.'
+description:         'Track tournaments, practice, sight setup.'
+url:                 'http://archerytrack.github.io'
+repo:				 'http://github.com/ArcheryTrack/'
+baseurl:             'https://archerytrack.github.io'
+paginate:            5
+
+# About/contact
+author:
+  name:              Brian Nelson
+  url:               https://twitter.com/brian_e_nelson
+  
+# Custom vars
+version:             0.7.0
