@@ -7,9 +7,9 @@ permalink:           pretty
 title:               ArcheryTrack
 tagline:             'App to track you shooting.'
 description:         'Track tournaments, practice, sight setup.'
-url:                 'http://archerytrack.github.io'
+url:                 'https://archerytrack.github.io/'
 repo:				 'http://github.com/ArcheryTrack/'
-baseurl:             'https://archerytrack.github.io'
+baseurl:             'https://archerytrack.github.io/'
 paginate:            5
 
 # About/contact
